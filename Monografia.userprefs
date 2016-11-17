@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Monografia/Monografia.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="/usr/bin/google-chrome-stable" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Monografia/Controllers/MonitoramentoController.cs">
+    <Files>
+      <File FileName="Monografia/Content/Angular/Controller.js" Line="57" Column="2" />
+      <File FileName="Monografia/Dao/MiniEstacaoDao.cs" Line="21" Column="219" />
+      <File FileName="Monografia/Controllers/MonitoramentoController.cs" Line="58" Column="4" />
+      <File FileName="Monografia/Content/Angular/Model.js" Line="1" Column="1" />
+      <File FileName="Monografia/Global.asax.cs" Line="1" Column="1" />
+      <File FileName="Monografia/App_start/RouteConfig.cs" Line="1" Column="1" />
+      <File FileName="Monografia/Dao/Conexao.cs" Line="1" Column="1" />
+      <File FileName="Monografia/Controllers/HomeController.cs" Line="21" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Monografia/Controllers/MonitoramentoController.cs" line="15" offsetX="537" offsetY="191" expression="dado.Final" liveUpdate="True" />
+    <Watch file="Monografia/Controllers/MonitoramentoController.cs" line="15" offsetX="536" offsetY="166" expression="dado.Inicial" liveUpdate="True" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
